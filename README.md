@@ -28,7 +28,7 @@ JavaScript: Lógica de carregamento de fotos, manipulação do DOM e filtro de b
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone:https://github.com/Jennifer-Fartes/Desafio-galeria-de-fotos
 
 Acesse a pasta do projeto:
 Bash
